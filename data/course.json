@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "774c953c-46c6-973c-227a-48f2c339217b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Computation Structures",
+  "course_description": "This course introduces architecture of digital systems, emphasizing structural principles common to a wide range of technologies. It covers the topics including multilevel implementation strategies, definition of new primitives (e.g., gates, instructions, procedures, processes) and their mechanization using lower-level elements. It also includes analysis of potential concurrency, precedence constraints and performance measures, pipelined and multidimensional systems, instruction set design issues and architectural support for contemporary software structures.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.004",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Programming Assignments with Examples",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
